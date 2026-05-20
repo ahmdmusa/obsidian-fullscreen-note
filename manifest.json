@@ -1,0 +1,9 @@
+{
+  "id": "fullscreen-note",
+  "name": "Fullscreen Note",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "زرار ملء الشاشة للـ note الحالية",
+  "author": "Ahmed",
+  "isDesktopOnly": true
+}
