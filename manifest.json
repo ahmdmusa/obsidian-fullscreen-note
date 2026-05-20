@@ -5,5 +5,6 @@
   "minAppVersion": "0.15.0",
   "description": "View any note in fullscreen with a single click.",
   "author": "Ahmed Mousa",
+  "authorUrl": "https://github.com/ahmdmusa",
   "isDesktopOnly": true
 }
