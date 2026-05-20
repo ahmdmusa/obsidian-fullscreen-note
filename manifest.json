@@ -3,7 +3,7 @@
   "name": "Fullscreen Note",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "View any note in fullscreen with a single click."
+  "description": "View any note in fullscreen with a single click.",
   "author": "Ahmed Mousa - أحمــد بن موسي ",
   "isDesktopOnly": true
 }
